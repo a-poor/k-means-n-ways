@@ -1,0 +1,19 @@
+{
+  "name": "k-means",
+  "version": "1.0.0",
+  "description": "k-means clustering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-poor/k-means-n-ways.git"
+  },
+  "author": "Austin Poor <45295232+a-poor@users.noreply.github.com> (https://github.com/a-poor/k-means-n-ways)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-poor/k-means-n-ways/issues"
+  },
+  "homepage": "https://github.com/a-poor/k-means-n-ways#readme"
+}
